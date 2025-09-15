@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+*.envrc
+*.python-version
+*.pyre/
+*.mypy_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.bak
+*.swp
+
+# Logs
+*.log
+*.out
+*.err
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# PyInstaller
+*.manifest
+*.spec
+
+# C extensions
+*.so
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Coverage
+.coverage
+*.cover
+.hypothesis/
+
+# Pytest
+.cache/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Others
+*.lock
